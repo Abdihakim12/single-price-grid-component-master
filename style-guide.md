@@ -29,3 +29,17 @@ The designs were created to the following widths:
 
 - Family: [Karla](https://fonts.google.com/specimen/Karla)
 - Weights: 400, 700
+
+
+
+
+
+.greyish-blue {
+	background-color: hsl(179, 47%, 52%);
+	color: #fff;
+}
+
+.cyan {
+	background-color: hsl(179, 62%, 43%);
+	color: #fff;
+}
