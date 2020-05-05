@@ -62,7 +62,7 @@ h1 {
     color: #fff;
   
 }
-button {
+.btn-sign{
 	background-color: hsl(71, 73%, 54%);
 	border-radius: 5px;
 	border: none;
@@ -74,6 +74,9 @@ button {
 	padding: 20px 0;
 	margin-top: 15px;
 	width: 100%;
+}
+.btn-sign:hover{
+    opacity: 0.9;
 }
 
 ul {
