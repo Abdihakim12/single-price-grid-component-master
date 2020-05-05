@@ -26,9 +26,9 @@ body{
 	border-radius: 10px;
 	box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05);
     margin: auto;
-    max-width: 600px;
+    max-width: 800px;
 	overflow: hidden;
-	width: 600px;
+	width: 800px;
 }
 h1 {
     color: var(--cyan-color);
